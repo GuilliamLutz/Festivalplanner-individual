@@ -356,3 +356,6 @@ Ik vond dit een makkelijkere methode als dat we van elke sprite die we gebruiken
 ### Mijn bijdrage
 
 Ik heb zelf een groot deen van het PVA aangepast en vernieuwd. Natuurlijk heb ik ook sturing gegeven aan de groep om te zorgen dat de taken af kwamen en duidelijk was wat we nog moesten doen. Daarnaast heb ik samen met Davy gewerkt aan het ontwerp voor de festival map en geprobeerd deze in te laden. Hier hadden we wel veel moeite mee. We wisten niet hoe we het het beste konden doen of hoe we het überhaupt moeten doen.
+
+	![PVA Testplan](https://i.gyazo.com/3ac912c8aa0af3946f6d2bcc08728b0b.png)
+   ![PVA Testplan](https://i.gyazo.com/354c90812a289b81b7bc6bc6f624f9a9.png)
