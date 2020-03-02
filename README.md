@@ -337,11 +337,22 @@ DynamicTitle title = new DynamicTitle("Artist", 40);
 
 **Situatie**
 
+Aan het einde van week 4 moesten we de agendamodule opleveren. Hiervoor moesten we de laatste puntjes op de I zetten en de fouten uit de code halen en tevens het PVA vernieuwen. We liepen een beetje achter op de planning en dit zorgde dus voor een beetje stress. We hebben het wel op tijd af kunnen krijgen gelukkig.
+
+Na de oplevering hebben we nog gewerkt aan de taken voor die week zoals het ontwerpen van een map voor het festivalterrein en deze vervolgens proberen in te laden. We hadden hier wel enige moeite mee en liepen vast. We hadden namelijk een map gemaakt met meerdere spritesheets waaronder een paar zeer grote. Hierdoor wisten we niet wat het beste was alles inladen of een eigen spritesheet creëren.
+
 **Keuzemogelijkheden**
+
+Voor het inladen van de map hadden wij neit de kennis om de gecreëerde Tiled map te gebruiken. We wouden us zelf de map gaan creëren door de tiles gebruikt in de map zelf te plaatsten. Dit ging alleen moeilijk omdat we meerdere hele uitgebreidde tilesets hebben gebruikt voor de map. We hadden dus de keuze om de gehele spritesheets in te laden en zelf die sprites die we nodig hebben te gebruiken. Of om van die desbetreffende sprites een eigen spritesheet te maken. zodat we alleen de nuttige sprites hebben.
 
 **Mijn Keuze**
 
+Ik vond het zelf handiger om een eigen spritesheet te maken van de gebruikte sprites. 
+
 **Keuzemotivatie**
+
+Ik vond dit een makkelijkere methode als dat we van elke sprite die we gebruiken op de map de spritesheet in gaan laden en dan moeten zoeken welke coördinaten overeenkomen met die sprite. Natuurlijk ben je veel tijd kwijt aan het creëren van een eigen spritesheet maar het werkt overzichtelijker vind ik. 
 
 ### Mijn bijdrage
 
+Ik heb zelf een groot deen van het PVA aangepast en vernieuwd. Natuurlijk heb ik ook sturing gegeven aan de groep om te zorgen dat de taken af kwamen en duidelijk was wat we nog moesten doen. Daarnaast heb ik samen met Davy gewerkt aan het ontwerp voor de festival map en geprobeerd deze in te laden. Hier hadden we wel veel moeite mee. We wisten niet hoe we het het beste konden doen of hoe we het überhaupt moeten doen.
