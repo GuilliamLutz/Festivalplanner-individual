@@ -23,6 +23,11 @@ Ik vond dit zelf een betere keuze op dat moment. Grant en ik hadden namelijk een
 
 Ik heb in week 2 van het project in samenwerking met Grant een design gemaakt voor de GUI. Wij zijn samen gaan zitten via Discord en hebben scherm gedeeld via Grant. Toen hebben we wat ideeën met elkaar uitgewisseld, al gauw kwamen we op de gedachte om een modern design te maken voor de applicatie. We hebben hiervoor dus enige voorbeelden op internet opgezocht en aan de hand daarvan een deel van het ontwerp gecreëerd. We bedachten ons alleen of het niet misschien leuk is als iedereen een ontwerp maakt. Daardoor hebben we aan de groep gevraagd dus om zelf een ontwerp te creëren. Vervolgens ben ik dus ook een ontwerp gaan creëren zoals ik het voor me zag.
 
+![Artist Design](https://i.gyazo.com/8f103a1a4a85baef67c3754ff6b2ddab.png)
+
+![Stage Design](https://i.gyazo.com/70087955aba04048ca69701e1678a28e.png)
+
+![Main view](https://i.gyazo.com/f076ea007effae572c73a082be8c36d9.png)
 
 
 
