@@ -9,10 +9,10 @@ In week 2 moesten wij gaan beginnen aan het coderen van de agendamodule. We hebb
 
 **Keuzemogelijkheden**
 
-Tijdens het ontwerpen van de agendamodule hadden Grant en ik al snel de vraag wat nou precies mooi is en gewild. En niet alleen voor onszelf maar ook de groep. We vroegen ons af of wij het met zijn 2e moesten ontwerpen of dat we de vraag stellen aan iedereen om een eigen ontwerp te maken en later alles ontwerpen samen te voegen zodat het van iedereen wat heeft. 
+Tijdens het ontwerpen van de agendamodule hadden Grant en ik al snel de vraag wat nou precies mooi is en gewild. En niet alleen voor onszelf maar ook voor de groep. We vroegen ons af of wij het met z'n tweeën konden ontwerpen of dat we de vraag zouden stellen aan iedereen om een eigen ontwerp te maken en later alle ontwerpen samen te voegen zodat het van iedereen wat bevat. 
 
-Keuze 1: Met 2 man het hele ontwerp maken voor de groep.
-Keuze 2: Iedereen een eigen ontwerp laten maken en later een gezamenlijk ontwerp maken.
+Keuze 1: met 2 man het hele ontwerp maken voor de groep.
+Keuze 2: iedereen een eigen ontwerp laten maken en later een gezamenlijk ontwerp maken.
 
 **Mijn keuze**
 
@@ -20,11 +20,11 @@ Op het moment zelf heb ik er voor gekozen om de vraag aan de groep te stellen om
 
 **Keuzemotivatie**
 
-Ik vond dit zelf een betere keuze op dat moment. Grant en ik hadden namelijk een hele andere gedachten merkte we al snel en daardoor dacht ik dat dit ook bij de andere voor zou komen. Ik vond het dus beter om allemaal een eigen "visie" te creëren en die dan bij een te leggen en zo een gezamelijk design te maken.
+Ik vond dit zelf een betere keuze op dat moment. Grant en ik hadden namelijk een hele andere gedachte merkten we al snel en daardoor dacht ik dat dit ook bij de anderen voor zou komen. Ik vond het dus beter om allemaal een eigen "visie" te creëren en die dan bij een te leggen en zo een gezamenlijk design te maken.
 
 ### Mijn bijdrage
 
-Ik heb in week 2 van het project in samenwerking met Grant een design gemaakt voor de GUI. Wij zijn samen gaan zitten via Discord en hebben scherm gedeeld via Grant. Toen hebben we wat ideeën met elkaar uitgewisseld, al gauw kwamen we op de gedachte om een modern design te maken voor de applicatie. We hebben hiervoor dus enige voorbeelden op internet opgezocht en aan de hand daarvan een deel van het ontwerp gecreëerd. We bedachten ons alleen of het niet misschien leuk is als iedereen een ontwerp maakt. Daardoor hebben we aan de groep gevraagd dus om zelf een ontwerp te creëren. Vervolgens ben ik dus ook een ontwerp gaan creëren zoals ik het voor me zag.
+Ik heb in week 2 van het project in samenwerking met Grant een design gemaakt voor de GUI. Wij zijn samen gaan zitten via Discord en vervolgens had Grant zijn scherm gedeeld. Toen hebben we wat ideeën met elkaar uitgewisseld, al gauw kwamen we op de gedachte om een modern design te maken voor de applicatie. We hebben hiervoor dus enkele voorbeelden op internet opgezocht en aan de hand daarvan een deel van het ontwerp gecreëerd. We bedachten ons alleen of het misschien niet leuk zou zijn als iedereen een ontwerp maakt. Daardoor hebben we aan de groep gevraagd om zelf een ontwerp te creëren. Vervolgens ben ik dus ook een ontwerp gaan maken zoals ik het voor me zag.
 
 ![Artist Design](https://i.gyazo.com/8f103a1a4a85baef67c3754ff6b2ddab.png)
 
@@ -36,23 +36,23 @@ Ik heb in week 2 van het project in samenwerking met Grant een design gemaakt vo
 
 **Situatie** 
 
-In de 3e projectweek zijn wij als groep aan de slag geweest met het coderen van de agendamodule. We hadden hier verschillende taken in 2 man was verantwoordelijk voor het programmeren van de logica, 2 man voor de planningview die met 2D-Graphics werd gemaakt en 2 man die de algehele GUI ging maken dus alle knoppen en velden. Deze taak was opgegeven aan Davy en mij. In eerste instantie zijn Davy en ik de GUI gaan maken met scenebuilder, dit deden we omdat Davy hiermee wist te werken en het naar onze mening sneller en beter kon via dit systeem. Later werd alleen door een paar leden bevonden dat ze toch liever op de standaard JavaFX manier de GUI wouden opbouwen.
+In de 3e projectweek zijn wij als groep aan de slag geweest met het coderen van de agendamodule. We hadden hier verschillende taken in, 2 man was verantwoordelijk voor het programmeren van de logica, 2 man voor de planningview die met 2D-Graphics werd gemaakt en 2 man die de algehele GUI ging maken, dus alle knoppen en velden. Deze taak was opgegeven aan Davy en mij. In eerste instantie zijn Davy en ik de GUI gaan maken met scenebuilder, dit deden we omdat Davy hiermee wist te werken en het naar onze mening sneller en beter kon via dit systeem. Later werd alleen door een paar leden bevonden dat ze toch liever op de standaard JavaFX manier de GUI wouden opbouwen.
 
 **Keuzemogelijkheden**
 
-Na de opmerking van de leden die aangaven dat ze liever JavaFX gebruikte hadden Davy en ik de keuze om door te gaan met scenebuilder of om na overleg over te stappen naar JavaFX en op die manier de GUi te maken. 
+Na de opmerking van de leden die aangaven dat ze liever JavaFX gebruikten, hadden Davy en ik de keuze om door te gaan met scenebuilder of om na overleg over te stappen naar JavaFX en op die manier de GUi te maken. 
 
 **Mijn keuze**
 
-Ik heb er voor besloten om aan iedereen van de groep te vragen wat zij het liefst zouden zien dat gebruikt wordt om de GUI te maken.
+Ik heb besloten om aan iedereen van de groep te vragen wat zij het liefst zouden zien dat gebruikt wordt om de GUI te maken.
 
 **Keuzemotivatie**
 
-Ik vond dit de meest verstandige optie om 2 redenen. Ten eerste omdat dit eerlijker is naar mijn mening, ik vind het eerlijker om de groep te laten beslissen als dat ik dit zelf doe. Daarom vond ik het verstandiger om het gezamenlijk te bepalen. De tweede reden is aangezien ik denk dat het efficiënter was voor de groep. Davy en ik begrepen scenebuilder wel maar de rest niet. En dit is opzich niet moeilijk om te begrijpen maar het kost wel tijd. En het is handiger om dan iets te gebruiken waar de gehele groep al kennis van heeft en mee weet om te gaan. 
+Ik vond dit de meest verstandige optie om twee redenen. Ten eerste, omdat dit eerlijker is naar mijn mening, ik vind het eerlijker om de groep te laten beslissen dan dat ik dit zelf doe. Daarom vond ik het verstandiger om het gezamenlijk te bepalen. De tweede reden is aangezien ik denk dat het efficiënter was voor de groep. Davy en ik begrepen scenebuilder wel maar de rest niet. En dit is opzich niet moeilijk om te begrijpen maar het kost wel tijd. Daarnaast is het handiger om iets te gebruiken waar de gehele groep al kennis van heeft en mee weet om te gaan. 
 
 ### Mijn bijdrage
 
-In deze week heb ik samen met Davy het gehele skelet van de GUI gemaakt voor de agendamodule. We hebben alle textfields, textarea's, buttons, labels en scene's toegevoegd en op de juiste plekken gezet. Daarnaast hebben we ook wat logica geschreven voor de buttons. Voor sommige dat ze je bijvoorbeeld naar een nieuwe scene sturen en andere dat er nieuwe objecten worden aangemaakt of verwijderd aan de hand van de parameters meegegeven in de verschillende textfields en -area's. Daarnaast heb ik zelf de logica geschreven voor de linkedList's zodat wij de objecten van artiesten en stage's kunnen obslaan in een lijst en meteen weergegeven kunnen worden in de listview's aanwezig in de GUI. Naast dit heb ik ook wat logica geschreven zodat je niet 2 keer dezelfde artist kan aanmaken.
+In deze week heb ik samen met Davy het gehele skelet van de GUI gemaakt voor de agendamodule. We hebben alle textfields, textarea's, buttons, labels en scene's toegevoegd en op de juiste plekken gezet. Daarnaast hebben we ook wat logica geschreven voor de buttons. Enkele buttons hebben als functie dat deze je naar een nieuwe scene stuurt. Daarnaast heb je een button voor het aanmaken van een object of voor het verwijderen van een object aan de hand van de parameters meegegeven in de verschillende textfields en -area's. Daarnaast heb ik zelf de logica geschreven voor de linkedList's zodat wij de objecten van artiesten en stages kunnen opslaan in een lijst en meteen weergegeven kunnen worden in de listview's aanwezig in de GUI. Daarnaast heb ik ook wat logica geschreven zodat je niet twee keer dezelfde artist kan aanmaken.
 
 ``` 
    private String name;
@@ -340,13 +340,13 @@ DynamicTitle title = new DynamicTitle("Artist", 40);
 
 **Situatie**
 
-Aan het einde van week 4 moesten we de agendamodule opleveren. Hiervoor moesten we de laatste puntjes op de I zetten en de fouten uit de code halen en tevens het PVA vernieuwen. We liepen een beetje achter op de planning en dit zorgde dus voor een beetje stress. We hebben het wel op tijd af kunnen krijgen gelukkig.
+Aan het einde van week 4 moesten we de agendamodule opleveren. Hiervoor moesten we de laatste puntjes op de i zetten en de fouten uit de code halen en tevens het PVA vernieuwen. We liepen een beetje achter met het schema en dit zorgde dus voor wat stress. We hebben het wel op tijd af kunnen krijgen gelukkig.
 
-Na de oplevering hebben we nog gewerkt aan de taken voor die week zoals het ontwerpen van een map voor het festivalterrein en deze vervolgens proberen in te laden. We hadden hier wel enige moeite mee en liepen vast. We hadden namelijk een map gemaakt met meerdere spritesheets waaronder een paar zeer grote. Hierdoor wisten we niet wat het beste was alles inladen of een eigen spritesheet creëren.
+Na de oplevering hebben we nog gewerkt aan de taken voor die week zoals het ontwerpen van een map voor het festivalterrein en deze vervolgens proberen in te laden. We hadden hier wel enige moeite mee en liepen vast. We hadden namelijk een map gemaakt met meerdere spritesheets waaronder een paar zeer grote. Hierdoor wisten we niet wat het beste was: alles inladen of een eigen spritesheet creëren.
 
 **Keuzemogelijkheden**
 
-Voor het inladen van de map hadden wij neit de kennis om de gecreëerde Tiled map te gebruiken. We wouden us zelf de map gaan creëren door de tiles gebruikt in de map zelf te plaatsten. Dit ging alleen moeilijk omdat we meerdere hele uitgebreidde tilesets hebben gebruikt voor de map. We hadden dus de keuze om de gehele spritesheets in te laden en zelf die sprites die we nodig hebben te gebruiken. Of om van die desbetreffende sprites een eigen spritesheet te maken. zodat we alleen de nuttige sprites hebben.
+Voor het inladen van de map hadden wij niet de kennis om de gecreëerde Tiled map te gebruiken. We wilden zelf de map gaan creëren door de tiles die gebruikt zijn in de map zelf te plaatsten. Dit ging alleen moeilijk omdat we meerdere hele uitgebreidde tilesets hebben gebruikt voor de map. We hadden dus de keuze om de gehele spritesheets in te laden en zelf die sprites die we nodig hebben te gebruiken. Of om van die desbetreffende sprites een eigen spritesheet te maken, zodat we alleen de nuttige sprites hebben.
 
 **Mijn Keuze**
 
@@ -354,11 +354,11 @@ Ik vond het zelf handiger om een eigen spritesheet te maken van de gebruikte spr
 
 **Keuzemotivatie**
 
-Ik vond dit een makkelijkere methode als dat we van elke sprite die we gebruiken op de map de spritesheet in gaan laden en dan moeten zoeken welke coördinaten overeenkomen met die sprite. Natuurlijk ben je veel tijd kwijt aan het creëren van een eigen spritesheet maar het werkt overzichtelijker vind ik. 
+Ik vond dit een makkelijkere methode als dat we van elke sprite die we gebruiken op de map de spritesheet in gaan laden en dan moeten zoeken welke coördinaten overeenkomen met die sprite. Natuurlijk ben je veel tijd kwijt aan het creëren van een eigen spritesheet, maar het werkt overzichtelijker naar mijn mening. 
 
 ### Mijn bijdrage
 
-Ik heb zelf een groot deen van het PVA aangepast en vernieuwd. Natuurlijk heb ik ook sturing gegeven aan de groep om te zorgen dat de taken af kwamen en duidelijk was wat we nog moesten doen. Daarnaast heb ik samen met Davy gewerkt aan het ontwerp voor de festival map en geprobeerd deze in te laden. Hier hadden we wel veel moeite mee. We wisten niet hoe we het het beste konden doen of hoe we het überhaupt moeten doen.
+Ik heb zelf een groot deel van het PVA aangepast en vernieuwd. Natuurlijk heb ik ook sturing gegeven aan de groep om te zorgen dat de taken af kwamen en duidelijk was wat we nog moesten doen. Daarnaast heb ik samen met Davy gewerkt aan het ontwerp voor de festival map en geprobeerd deze in te laden. Hier hadden we wel veel moeite mee. We wisten niet hoe we dit het beste konden doen of hoe we het überhaupt moesten doen.
 
 ![PVA Testplan](https://i.gyazo.com/3ac912c8aa0af3946f6d2bcc08728b0b.png)
 	
@@ -375,16 +375,16 @@ Ik heb zelf een groot deen van het PVA aangepast en vernieuwd. Natuurlijk heb ik
 In week 5 van het project kwam het begin van de simulatiemodule. De taak voor het maken en het inladen van de map hebben Davy en ik op ons genomen. Het was best ingewikkeld om dit te doen aangezien we voor het eerst met het inladen van een Tiled map gingen werken wat wennen en moeilijk was. We liepen ook vast op een gegeven moment.
 
 **Keuzemogelijkheden**
-Het moment dat we vastliepen kwam doordat wij nog niet goed wisten hoe je het beste een map kon inladen. We kwamen op 2 mogelijkheden. Inladen zoals de docenten het voordeden dus met de tiled applicatie. De andere manier had Davy bedacht en gebruikt in een eigen project. Dit was het handmatig inladen van elke tile en ook een eigen tileset maken.
+Het moment dat we vastliepen kwam doordat wij nog niet goed wisten hoe je het beste een map kon inladen. We kwamen op twee mogelijkheden: inladen zoals de docenten het voordeden,dus met de tiled applicatie. De andere manier had Davy bedacht en gebruikt in een eigen project: het handmatig inladen van elke tile en ook een eigen tileset maken.
 
-Keuze 1: Map inladen met behulp van de Tiled Applicatie.
-Keuze 2: Een eigen tileset maken en handmatig de map inprogrammeren
+Keuze 1: map inladen met behulp van de Tiled Applicatie.
+Keuze 2: een eigen tileset maken en handmatig de map inprogrammeren.
 
 **Mijn Keuze**
-Ik heb gekozen voor de manier voor de docenten keuze 1 dus.
+Ik heb gekozen voor de manier voor de docenten, keuze 1 dus.
 
 **Keuzemotivatie**
-Mijn motivatie voor het maken van deze keuze was ten eerste dat ik het handiger vond aangezien dit de manier van de docenten was dus als je vragen had kon je bij de docenten terecht. De 2e motivatie was het feit dat als je een map via Tiled inlaad dat je hem makkelijk aan kan passen in de Tiled applicatie en hij wordt dat gelijk in het project aangepast wat dubbele moeite scheelt.
+Mijn motivatie voor het maken van deze keuze was ten eerste, dat ik het handiger vond aangezien dit de manier van de docenten was dus als je vragen had kon je bij de docenten terecht. De tweede motivatie was het feit dat als je een map via Tiled inlaad, dat je hem makkelijk aan kan passen in de Tiled applicatie en hij wordt dan gelijk in het project aangepast wat dubbele moeite scheelt.
 
 ### Mijn bijdrage
 Ik heb deze week veel onderzoek gedaan naar hoe men een map via Tiled in moet laden en hoe je Json bestanden uit moet lezen en gebruiken. Ook heb ik contact met de docenten opgezocht om de kennis die ik via het internet vergaard had en toegepast in het project te verbeteren aangezien er af en toe toch wat kleine foutjes in zaten.
@@ -392,19 +392,19 @@ Ik heb deze week veel onderzoek gedaan naar hoe men een map via Tiled in moet la
 ## Projectweek 6
 
 **Situatie**
-In week 6 hadden wij helaas nog niet het inladen van de map compleet afgerond. Ik heb in de week daarvoor al wel veel kennis vergaard over het inladen en extra uitleg gehad en zo dus een goede basis gemaakt. Ik moest vervolgens alleen Johan vragen om een klein foutje op te lossen. Nadat dit opgelost was zijn wij een definitieve map gaan maken in Tiled. Deze zou gebruikt worden in het project. Hiervoor gebruikte wij een manier in tiled om terreinen aan te maken zodat je makkelijk paden kan maken. Hierbij liepen wij helaas tegen een probleem aan want het inladen werkte niet goed met de tereinnen aangezien dit een extra onderdeel voor de Json werdt maar dit zat niet in de code en was nog onbekend voor ons.
+In week 6 hadden wij helaas nog niet het inladen van de map compleet afgerond. Ik heb in de week daarvoor al wel veel kennis vergaard over het inladen en extra uitleg gehad en zo dus een goede basis gemaakt. Ik moest vervolgens alleen Johan vragen om een klein foutje op te lossen. Nadat dit opgelost was, zijn wij een definitieve map gaan maken in Tiled. Deze zou gebruikt worden in het project. Hiervoor gebruikte wij een manier in Tiled om terreinen aan te maken zodat je makkelijk paden kan maken. Hierbij liepen wij helaas tegen een probleem aan, want het inladen werkte niet goed met de terreinen aangezien dit een extra onderdeel voor de Json werd, maar dit zat niet in de code en was nog onbekend voor ons.
 
 **Keuzemogelijkheden**
-Doordat de map was gemaakt met terreinen maar het inladen van de terreinen onbekend voor ons was moesten wij een keuze maken. Het uitzoeken hoe de terreinen werken en de map met terreinen kunnen maken, of de map handmatig tekenen wat meer tijd zou kosten maar dan zou er niks aan de code voor het uitlezen en tekenen van de map moeten veranderen.
+Doordat de map was gemaakt met terreinen maar het inladen van de terreinen onbekend voor ons was, moesten wij een keuze maken: het uitzoeken hoe de terreinen werken en de map met terreinen kunnen maken, of de map handmatig tekenen wat meer tijd zou kosten maar dan zou er niks aan de code voor het uitlezen en tekenen van de map moeten veranderen.
 
-Keuze 1: Uitzoeken hoe je terreinen in Tiled kan uitlezen en tekenen in Java.
-Keuze 2: De map maken in Tiled zonder terreinen te gebruiken.
+Keuze 1: uitzoeken hoe je terreinen in Tiled kan uitlezen en tekenen in Java.
+Keuze 2: de map maken in Tiled zonder terreinen te gebruiken.
 
 **Mijn Keuze**
-Ik heb gekozen de map te tekenen zonder het gebruiken van terreinen. Ik heb dus de code voor het inladen en tekeken hetzelfde gehouden en de map handmatig getekend. 
+Ik heb gekozen de map te tekenen zonder het gebruiken van terreinen. Ik heb dus de code voor het inladen en tekenen hetzelfde gehouden en de map handmatig getekend. 
 
 **Keuzemotivatie**
-Ik heb voor deze keuze gekozen aangezien ik al veel tijd had besteed aan het uitzoeken hoe je een Tiled map in moet laden in Java. Dit wel zonder het gebruik van terreinen. Ik heb toen een overweging gemaakt, ik besteed een kwartier meer tijd aan het maken van de map of ik ga onderzoek doen naar het inladen van een terrein waarvan ik niet weet hoe lang dit zal duren. Ik heb zelf toen gekozen voor de voorspelbare optie en ben gegaan voor het zelf tekenen. Dit omdat ik zeker wist dat dit zou werken en ik wist dat het relatief snel afgemaakt kon worden. Ik koos voor de zekerheid aangezien er nog veel moest gebeuren en dat af zou hangen van het inladen van de map. 
+Ik heb voor deze keuze gekozen aangezien ik al veel tijd had besteed aan het uitzoeken hoe je een Tiled map in moet laden in Java. Dit wel zonder het gebruik van terreinen. Ik heb toen een overweging gemaakt: ik besteed een kwartier meer tijd aan het maken van de map, of ik ga onderzoek doen naar het inladen van een terrein waarvan ik niet weet hoe lang dit zal duren. Ik heb toen zelf gekozen voor de voorspelbare optie en ben gegaan voor het zelf tekenen. Dit omdat ik zeker wist dat dit zou werken en ik wist dat het relatief snel afgemaakt kon worden. Ik koos voor de zekerheid aangezien er nog veel moest gebeuren en dat zou afhangen van het inladen van de map. 
 
 Om deze reden vond ik het te risicovol om iets te proberen waarvan ik niet zeker wist of het gelijk zou werken en daardoor het inladen van de map langer zou duren als nodig.
 
@@ -414,19 +414,19 @@ Ik heb deze week de code volledig opgezet voor het inladen van de map en ik heb 
 ## Projectweek 7
 
 **Situatie**
-In week 7 werd het hele onderwijs waaronder de proftaak omgegooid door de overheidsmaatregelen voor het coronavirus. Wij moesten namelijk vanuit thuis werken. De school was gesloten en er was veel onduidelijkheid. Wij moesten dus een manier vinden om toch effectief en efficient te werk te gaan thuis om het project optijd af te krijgen. 
+In week 7 werd het hele onderwijs, waaronder de proftaak, omgegooid door de overheidsmaatregelen rondom het coronavirus. Wij moesten namelijk vanuit thuis werken. De school was gesloten en er was veel onduidelijkheid. Er moest dus een manier gevonden worden om toch effectief en efficient te werk te gaan thuis om het project optijd af te krijgen. 
 
 **Keuzemogelijkheden**
-Voor het creeëren van een toch stabiele en efficiente werkrelatie tijdens het thuiswerken moesten er duidelijke afspraken gemaakt worden. Dit om structuur en continuiteit aan te brengen. Ik kon hierbij 2 kanten kiezen. Een soepele of een meer directere afspraak maken. Dus zou ik al projectleider afspraken maken van welke tijden wij zouden werken en wat de afspraken waren. Of zou ik de groep zelf laten beslissen en het lot zijn gang laten gaan.
+Voor het creeëren van een toch stabiele en efficiente werkrelatie tijdens het thuiswerken moesten er duidelijke afspraken gemaakt worden. Dit om structuur en continuïteit aan te brengen. Ik kon hierbij twee kanten kiezen: een soepele of een meer directe afspraak maken. Dus zou ik als projectleider afspraken maken van welke tijden wij zouden werken en wat de afspraken waren. Of zou ik de groep zelf laten beslissen en het lot zijn gang laten gaan.
 
-Keuze 1: Als projectleider duidelijke afspraken maken waar aan gehouden moet worden.
-Keuze 2: Iedereen zijn gang laten gaan en kijken waar het schip strand.
+Keuze 1: als projectleider duidelijke afspraken maken waar aan gehouden moet worden.
+Keuze 2: iedereen zijn gang laten gaan en kijken waar het schip strand.
 
 **Mijn Keuze**
 Ik heb de keuze gemaakt als projectleider op te treden en duidelijke regels en afspraken te maken.
 
 **Keuzemotivatie**
-Ik heb voor deze optie gekozen omdat ik van mening was dat dit het beste voor de voorgang en kwaliteit van het project zou zijn. Als iedereen zijn eigen gang zou gaan zouden er namelijk geen duidelijke samenwerking meer zijn minder goeie communicatie en gewoon chaos. En dat zou ten kostte gaan van het project wat niet zou mogen gebeuren.
+Ik heb voor deze optie gekozen omdat ik van mening was dat dit het beste voor de voorgang en kwaliteit van het project zou zijn. Als iedereen zijn eigen gang zou gaan zouden er namelijk geen duidelijke samenwerking meer zijn minder goede communicatie en gewoon chaos. En dat zou ten koste gaan van het project wat niet zou mogen gebeuren.
 
 ### Mijn bijdrage
 Ik heb op de eerste dag van de week de groep bij elkaar gehaald en samen met de groep duidelijke afspraken gemaakt over hoe we vanaf nu gaan samen werken en hoe we het aan gaan pakken. Dit zorgde voor duidelijkheid en structuur wat ten goede kwam van het project merkte ik in de loop van de week.
