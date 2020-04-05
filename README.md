@@ -414,41 +414,60 @@ Ik heb deze week de code volledig opgezet voor het inladen van de map en ik heb 
 ## Projectweek 7
 
 **Situatie**
-
+In week 7 werd het hele onderwijs waaronder de proftaak omgegooid door de overheidsmaatregelen voor het coronavirus. Wij moesten namelijk vanuit thuis werken. De school was gesloten en er was veel onduidelijkheid. Wij moesten dus een manier vinden om toch effectief en efficient te werk te gaan thuis om het project optijd af te krijgen. 
 
 **Keuzemogelijkheden**
+Voor het creeëren van een toch stabiele en efficiente werkrelatie tijdens het thuiswerken moesten er duidelijke afspraken gemaakt worden. Dit om structuur en continuiteit aan te brengen. Ik kon hierbij 2 kanten kiezen. Een soepele of een meer directere afspraak maken. Dus zou ik al projectleider afspraken maken van welke tijden wij zouden werken en wat de afspraken waren. Of zou ik de groep zelf laten beslissen en het lot zijn gang laten gaan.
+
+Keuze 1: Als projectleider duidelijke afspraken maken waar aan gehouden moet worden.
+Keuze 2: Iedereen zijn gang laten gaan en kijken waar het schip strand.
 
 **Mijn Keuze**
+Ik heb de keuze gemaakt als projectleider op te treden en duidelijke regels en afspraken te maken.
 
 **Keuzemotivatie**
+Ik heb voor deze optie gekozen omdat ik van mening was dat dit het beste voor de voorgang en kwaliteit van het project zou zijn. Als iedereen zijn eigen gang zou gaan zouden er namelijk geen duidelijke samenwerking meer zijn minder goeie communicatie en gewoon chaos. En dat zou ten kostte gaan van het project wat niet zou mogen gebeuren.
 
 ### Mijn bijdrage
+Ik heb op de eerste dag van de week de groep bij elkaar gehaald en samen met de groep duidelijke afspraken gemaakt over hoe we vanaf nu gaan samen werken en hoe we het aan gaan pakken. Dit zorgde voor duidelijkheid en structuur wat ten goede kwam van het project merkte ik in de loop van de week.
 
 ## Projectweek 8
 
 **Situatie**
-
+In week 8 van het project zijn wij bezig geweest met het afronden van het project. De laatste puntjes moesten op de I gezet worden en er moest gedebugged en gecontroleerd worden. Daarnaast moest ook het plan van aanpak veranderd worden om aan de criteria te voldoen van P&OC.
 
 **Keuzemogelijkheden**
+In de afronding van het project is het belangrijk om te testen of het project werkt en of het project voldoet aan de eisen. Hiervoor is het belangrijk het product te testen met de requirementslist ernaast. Dit om te kijken of de benodigde zaken aanwezig zijn. Ik kon kiezen dit op mijzelf te nemen of dit uit handen te laten en iemand anders het te laten controleren.
+
+Keuze 1: Zelf het product testen aan de hand van de requirementslist.
+Keuze 2: Een ander groepslid het product testen aan de hand van de requirementslist.
 
 **Mijn Keuze**
+Ik heb gekozen zelf het product te testen en te debuggen en het product te controleren op zijn requirements.
 
 **Keuzemotivatie**
+Ik heb voor deze optie gekozen aangezien ik een pietje precies ben qua projecten en zeker wou weten dat ik iets goeds zou leveren. Daarnaast vond ik ook dat ik deze taak op mij moest nemen als projectleider aangezien het de taak is van de projectleider om de kwaliteti van het product te controleren en waar te borgen.
 
 ### Mijn bijdrage
+Ik heb mij deze week bezig gehouden met het controleren, debuggen en testen van het eindproduct. Ik heb gekeken of het voldoet aan de eisen en of het kwalitatief in orde is. Naast dit heb ik ook een taakverdeling gemaakt voor het verbeteren van het plan van aanpak en heb ik zelf ook enkele onderdelen hiervan aangepast en verbeterd. Op het einde heb ik het plan van aanpak zelf ook nog gecontroleerd of het voldeed aan de eisen en de opmerkingen en feedback die gegeven was hierop verwerkt zijn. Vervolgens heb ik het aan de secretaris gegeven en is het opnieuw ingezonden.
 
 ## Projectweek 9
 
 **Situatie**
-
+In de laatste week van het project was het product zelf afgerond. De agenda en simulatiemodule werkte zoals we verwacht hadden. We hebben de buggs eruit gehaald en zijn ons gaan voorbereiden op de presentatie. Hiervoor moest uiteraard een presentatie met een taakverdeling gemaakt worden wie wat zou presenteren.
 
 **Keuzemogelijkheden**
+In de presentatie komen vele verschillende onderwerpen aan bod maar wij wouden als groep wel allemaal iets vertellen over het product waar we zo trots op zijn. Hierdoor moest ik een selectie maken welke onderwerpen ik wou presenteren en hoe ik die in zou vullen.
 
 **Mijn Keuze**
+Ik heb gekozen om de opening met daarbij de inleiding van het project te doen. En daarnaast heb ik gekozen ook het onderwerp, wat is simulatiesoftware, te nemen.
 
 **Keuzemotivatie**
+Ik heb gekozen voor de opening en de inleiding aangezien ik van mening ben dat ik een makkelijke prater ben en redelijk kan presenteren. Ik heb ook gehoord van kennissen dat ik goed ben in het openen van een presentatie en daarmee de aandacht te trekken. Om die reden heb ik het begin van de presentatie gekozen.
+Het uitleggen wat simulatiesoftware is heb ik gekozen om het feit dat ik goed weet wat er verwacht wordt van de simulatiesoftware en wat het nut er van is. Daardoor was ik van mening dat ik dit duidelijke en correct zou kunnen vertellen en om die reden het mij een verstandige keuze leek deze op mij te nemen.
 
 ### Mijn bijdrage
+Ik heb deze week de gekozen onderwerpen voor de presentatie voorbereid en ingevuld zodat ik deze correct uit zou kunnen leggen op de presentatie. Ik heb een verdeling gemaakt wat wel en wat niet te vertellen en een goede aantrekkelijke opening bedacht voor de presentatie. Daarnaaast heb ik samen met de groep een proefpresentatie georganiseerd zodat wij allen redelijk op elkaar ingespeeld zouden zijn voor de echte presentatie.
 
 ## Stellingsreflectie: “In het bedrijfsleven wordt gebruik gemaakt van JavaFX”
 
