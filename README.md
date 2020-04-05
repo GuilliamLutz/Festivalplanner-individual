@@ -471,6 +471,25 @@ Ik heb deze week de gekozen onderwerpen voor de presentatie voorbereid en ingevu
 
 ## Stellingsreflectie: “In het bedrijfsleven wordt steeds meer in software gesimuleerd”
 
+Ik heb voor dit onderzoek geprobeerd concrete bronnen te vinden of het meer gebruikt wordt. Helaas heb ik hier geen succes in gehad aangezien ik er niet in geslaagd ben veel informatie hierover te vinden. Wel heb ik voordelen en nadelen van het simuleren kunnen vinden. Daarom zal ik met de kennis die ik heb gevonden eerder een betoog schrijven over wat ik denk dat de waarschijnlijke uitkomst zal zijn. Ik zal hieronder de voor en nadelen van het gebruiken van simulatiesoftware beschrijven en dan een mening geven over het gebruim hiervan.
+
+### Voordelen
+Aan het gebruik van simulatiesoftware zitten verschillende voordelen wat het gebruik hiervan interessant maakt. Een van de eerste die naar boven komt is dat het een risicoloze manier van testen is. Je kan hiermee grote evenementen of ingewikkelde producten simuleren zonder een echt risico te lopen. Als het bijvoorbeeld niet goed werkt of als er te veel mensen zijn kan je dit ontdekken zonder dat de dure machine kapot gaat. Of in een groot evenement met veel mensen kan je zien waar knelpunten zitten zonder het risico te lopen dat hier mensen gewond bij zullen raken. Dit is natuurlijk een groot voordeel wat ook leid tot een ander voordeel, het is namelijk kostentechnisch ook beter.
+
+Dit komt door het feit dat als er iets kapot zou gaan in een machine je in het echt dit zou moeten vervangen. Daarvoor moet je de materiaalkosten en de arbeidsuren om het te herstellen betalen. Als je het simuleert gaat er niet echt iets kapot wat scheelt in materiaalkosten en in arbeidskosten. Daarnaast is het ook tijdsefficiënter. Een simulatie kan je namelijk makkelijk doorspoelen. Hierdoor kan je een grotere periode als het ware testen in een kortere tijd. Hiermee is gemakkelijker te zeggen hoe lang iets vol houd hoe lan iets werkend blijft. 
+
+Naast dit zijn er nog meer voordelen op te noemen. Je kan bijvoorbeeld inschatten voor een magazijn wat de bezetting van dit magazijn zal zijn op verschillende momenten zo kan er goed worden ingeschat hoe groot het magazijn moet zijn voor het bedrijf. Hiermee kan voorkomen worden dat een te klein of te groot magazijn gecreerd wordt wat weer kosten kan voorkomen.
+
+### Nadelen
+Het creëren van een goede simulatiesoftware is heel prijzig en kost veel tijd. Een dergelijk programma moet namelijk heel flexibel zijn en heel uitbrijdbaar om op allerlij verschillende manieren te testen. Om dit te creëren kost het veel tijd aangezien dit vrij ingewikkeld is. Daarnaast kost dit natuurlijk veel geld want tijd is geld. Ook zijn er krachtige onderdelen voor nodig. Aangezien het zo veel dingen tegelijk moet berekenen moet de computer de simulatie wel aankunnen wat om krachtige componenten vraagt.
+
+Naast dit is het heel lastig een perfecte simulatie te maken. Voor het maken van een perfecte simulatie moet je een goed begrip hebben en exact weten wat je product allemaal kan. En precies weten hoe dit verloopt. Daarnaast moet je ook elk mogelijke risico kunnen bedenken om het hier op te testen wat vrijwel onmogelijk is want er kunnen altijd onverwachtse dingen gebeuren. Om deze reden is het heel moeilijk om een simulatie precies alles te laten testen zoals in werkelijkheid zal gebeuren. 
+
+### Overweging 
+Als ik mijn mening zou moeten geven zou ik 
+
+https://www.anylogic.com/use-of-simulation/
+
 ## Applicaties die Json gebruiken:
 1. GitKraken
 2. Minecraft
