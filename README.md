@@ -5,11 +5,14 @@ This reposiroty includes a markdown file in wich I note down my process of my pr
 
 **Situatie**
 
-In week 2 moesten wij gaan beginnen aan het coderen van de agendamodule. We hebben in week 1 hiervoor een ontwerp gemaakt en een projectkeuze. We vonden het eerste ontwerp alleen niet van genoeg kwaliteit. Daarom hebben we besloten om het te verbeteren. Deze taak is gegeven aan Grant en mijzelf. 
+In week 2 moesten wij gaan beginnen aan het coderen van de agendamodule. We hebben in week 1 hiervoor een ontwerp gemaakt en een projectkeuze. We vonden het eerste ontwerp alleen niet van genoeg kwaliteit. Daarom hebben we besloten om het te verbeteren. Deze taak hebben Grant en ik op ons genomen. 
 
 **Keuzemogelijkheden**
 
 Tijdens het ontwerpen van de agendamodule hadden Grant en ik al snel de vraag wat nou precies mooi is en gewild. En niet alleen voor onszelf maar ook de groep. We vroegen ons af of wij het met zijn 2e moesten ontwerpen of dat we de vraag stellen aan iedereen om een eigen ontwerp te maken en later alles ontwerpen samen te voegen zodat het van iedereen wat heeft. 
+
+Keuze 1: Met 2 man het hele ontwerp maken voor de groep.
+Keuze 2: Iedereen een eigen ontwerp laten maken en later een gezamenlijk ontwerp maken.
 
 **Mijn keuze**
 
@@ -365,3 +368,88 @@ Ik heb zelf een groot deen van het PVA aangepast en vernieuwd. Natuurlijk heb ik
 ![PVA Projectactiviteiten1](https://i.gyazo.com/b5c40d3102565e2ec24dec153ca7964f.png)
 
 ![Projectactiviteiten2](https://i.gyazo.com/600a4110cf92abee10b600c5c7658eac.png)
+
+## Projectweek 5
+
+**Situatie**
+In week 5 van het project kwam het begin van de simulatiemodule. De taak voor het maken en het inladen van de map hebben Davy en ik op ons genomen. Het was best ingewikkeld om dit te doen aangezien we voor het eerst met het inladen van een Tiled map gingen werken wat wennen en moeilijk was. We liepen ook vast op een gegeven moment.
+
+**Keuzemogelijkheden**
+Het moment dat we vastliepen kwam doordat wij nog niet goed wisten hoe je het beste een map kon inladen. We kwamen op 2 mogelijkheden. Inladen zoals de docenten het voordeden dus met de tiled applicatie. De andere manier had Davy bedacht en gebruikt in een eigen project. Dit was het handmatig inladen van elke tile en ook een eigen tileset maken.
+
+Keuze 1: Map inladen met behulp van de Tiled Applicatie.
+Keuze 2: Een eigen tileset maken en handmatig de map inprogrammeren
+
+**Mijn Keuze**
+Ik heb gekozen voor de manier voor de docenten keuze 1 dus.
+
+**Keuzemotivatie**
+Mijn motivatie voor het maken van deze keuze was ten eerste dat ik het handiger vond aangezien dit de manier van de docenten was dus als je vragen had kon je bij de docenten terecht. De 2e motivatie was het feit dat als je een map via Tiled inlaad dat je hem makkelijk aan kan passen in de Tiled applicatie en hij wordt dat gelijk in het project aangepast wat dubbele moeite scheelt.
+
+### Mijn bijdrage
+Ik heb deze week veel onderzoek gedaan naar hoe men een map via Tiled in moet laden en hoe je Json bestanden uit moet lezen en gebruiken. Ook heb ik contact met de docenten opgezocht om de kennis die ik via het internet vergaard had en toegepast in het project te verbeteren aangezien er af en toe toch wat kleine foutjes in zaten.
+
+## Projectweek 6
+
+**Situatie**
+In week 6 hadden wij helaas nog niet het inladen van de map compleet afgerond. Ik heb in de week daarvoor al wel veel kennis vergaard over het inladen en extra uitleg gehad en zo dus een goede basis gemaakt. Ik moest vervolgens alleen Johan vragen om een klein foutje op te lossen. Nadat dit opgelost was zijn wij een definitieve map gaan maken in Tiled. Deze zou gebruikt worden in het project. Hiervoor gebruikte wij een manier in tiled om terreinen aan te maken zodat je makkelijk paden kan maken. Hierbij liepen wij helaas tegen een probleem aan want het inladen werkte niet goed met de tereinnen aangezien dit een extra onderdeel voor de Json werdt maar dit zat niet in de code en was nog onbekend voor ons.
+
+**Keuzemogelijkheden**
+Doordat de map was gemaakt met terreinen maar het inladen van de terreinen onbekend voor ons was moesten wij een keuze maken. Het uitzoeken hoe de terreinen werken en de map met terreinen kunnen maken, of de map handmatig tekenen wat meer tijd zou kosten maar dan zou er niks aan de code voor het uitlezen en tekenen van de map moeten veranderen.
+
+Keuze 1: Uitzoeken hoe je terreinen in Tiled kan uitlezen en tekenen in Java.
+Keuze 2: De map maken in Tiled zonder terreinen te gebruiken.
+
+**Mijn Keuze**
+Ik heb gekozen de map te tekenen zonder het gebruiken van terreinen. Ik heb dus de code voor het inladen en tekeken hetzelfde gehouden en de map handmatig getekend. 
+
+**Keuzemotivatie**
+Ik heb voor deze keuze gekozen aangezien ik al veel tijd had besteed aan het uitzoeken hoe je een Tiled map in moet laden in Java. Dit wel zonder het gebruik van terreinen. Ik heb toen een overweging gemaakt, ik besteed een kwartier meer tijd aan het maken van de map of ik ga onderzoek doen naar het inladen van een terrein waarvan ik niet weet hoe lang dit zal duren. Ik heb zelf toen gekozen voor de voorspelbare optie en ben gegaan voor het zelf tekenen. Dit omdat ik zeker wist dat dit zou werken en ik wist dat het relatief snel afgemaakt kon worden. Ik koos voor de zekerheid aangezien er nog veel moest gebeuren en dat af zou hangen van het inladen van de map. 
+
+Om deze reden vond ik het te risicovol om iets te proberen waarvan ik niet zeker wist of het gelijk zou werken en daardoor het inladen van de map langer zou duren als nodig.
+
+### Mijn bijdrage
+Ik heb deze week de code volledig opgezet voor het inladen van de map en ik heb er voor gezorgd dat de map dynamisch aangepast kan worden via Tiled. Zodat wij binnen ons project altijd de juiste map zouden hebben.
+
+## Projectweek 7
+
+**Situatie**
+
+
+**Keuzemogelijkheden**
+
+**Mijn Keuze**
+
+**Keuzemotivatie**
+
+### Mijn bijdrage
+
+## Projectweek 8
+
+**Situatie**
+
+
+**Keuzemogelijkheden**
+
+**Mijn Keuze**
+
+**Keuzemotivatie**
+
+### Mijn bijdrage
+
+## Projectweek 9
+
+**Situatie**
+
+
+**Keuzemogelijkheden**
+
+**Mijn Keuze**
+
+**Keuzemotivatie**
+
+### Mijn bijdrage
+
+## Stellingsreflectie: “In het bedrijfsleven wordt gebruik gemaakt van JavaFX”
+
+
