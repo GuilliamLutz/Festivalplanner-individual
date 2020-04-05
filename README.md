@@ -469,6 +469,10 @@ Het uitleggen wat simulatiesoftware is heb ik gekozen om het feit dat ik goed we
 ### Mijn bijdrage
 Ik heb deze week de gekozen onderwerpen voor de presentatie voorbereid en ingevuld zodat ik deze correct uit zou kunnen leggen op de presentatie. Ik heb een verdeling gemaakt wat wel en wat niet te vertellen en een goede aantrekkelijke opening bedacht voor de presentatie. Daarnaaast heb ik samen met de groep een proefpresentatie georganiseerd zodat wij allen redelijk op elkaar ingespeeld zouden zijn voor de echte presentatie.
 
-## Stellingsreflectie: “In het bedrijfsleven wordt gebruik gemaakt van JavaFX”
+## Stellingsreflectie: “In het bedrijfsleven wordt steeds meer in software gesimuleerd”
 
-
+## Applicaties die Json gebruiken:
+1. GitKraken
+2. Minecraft
+3. Visual Studio
+4. Microsoft Teams
