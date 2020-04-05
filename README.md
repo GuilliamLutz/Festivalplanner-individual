@@ -471,7 +471,7 @@ Ik heb deze week de gekozen onderwerpen voor de presentatie voorbereid en ingevu
 
 ## Stellingsreflectie: “In het bedrijfsleven wordt steeds meer in software gesimuleerd”
 
-Ik heb voor dit onderzoek geprobeerd concrete bronnen te vinden of het meer gebruikt wordt. Helaas heb ik hier geen succes in gehad aangezien ik er niet in geslaagd ben veel informatie hierover te vinden. Wel heb ik voordelen en nadelen van het simuleren kunnen vinden. Daarom zal ik met de kennis die ik heb gevonden eerder een betoog schrijven over wat ik denk dat de waarschijnlijke uitkomst zal zijn. Ik zal hieronder de voor en nadelen van het gebruiken van simulatiesoftware beschrijven en dan een mening geven over het gebruim hiervan.
+Ik heb voor dit onderzoek geprobeerd concrete bronnen te vinden of het meer gebruikt wordt. Helaas heb ik hier geen succes in gehad aangezien ik er niet in geslaagd ben veel informatie hierover te vinden. Wel heb ik voordelen en nadelen van het simuleren kunnen vinden. Daarom zal ik met de kennis die ik heb gevonden eerder een betoog schrijven over wat ik denk dat de waarschijnlijke uitkomst zal zijn. Ik zal hieronder de voor en nadelen van het gebruiken van simulatiesoftware beschrijven, vervolgens zal ik een overweging geven dus de voordelen tegen de nadelen afwegen. Tenslotte zal ik een mening geven over het gebruik hiervan. De voor en nadelen die ik beschrijf zijn afkomstig van informatie die ik opzoek op internet. 
 
 ### Voordelen
 Aan het gebruik van simulatiesoftware zitten verschillende voordelen wat het gebruik hiervan interessant maakt. Een van de eerste die naar boven komt is dat het een risicoloze manier van testen is. Je kan hiermee grote evenementen of ingewikkelde producten simuleren zonder een echt risico te lopen. Als het bijvoorbeeld niet goed werkt of als er te veel mensen zijn kan je dit ontdekken zonder dat de dure machine kapot gaat. Of in een groot evenement met veel mensen kan je zien waar knelpunten zitten zonder het risico te lopen dat hier mensen gewond bij zullen raken. Dit is natuurlijk een groot voordeel wat ook leid tot een ander voordeel, het is namelijk kostentechnisch ook beter.
@@ -486,9 +486,16 @@ Het creëren van een goede simulatiesoftware is heel prijzig en kost veel tijd. 
 Naast dit is het heel lastig een perfecte simulatie te maken. Voor het maken van een perfecte simulatie moet je een goed begrip hebben en exact weten wat je product allemaal kan. En precies weten hoe dit verloopt. Daarnaast moet je ook elk mogelijke risico kunnen bedenken om het hier op te testen wat vrijwel onmogelijk is want er kunnen altijd onverwachtse dingen gebeuren. Om deze reden is het heel moeilijk om een simulatie precies alles te laten testen zoals in werkelijkheid zal gebeuren. 
 
 ### Overweging 
-Als ik mijn mening zou moeten geven zou ik 
+Als ik mijn mening zou moeten geven zou ik zelf zeggen dat de voordelen groter zijn als de nadelen. Daarom zou ik zeggen dat het gebruik van simulatiesoftware positief is. Een van de nadelen is bijvoorbeeld dat het lastig is om het perfect te simuleren zoals het in het echt zou zijn. Daar ben ik het zeker mee eens, maar met een simulatie kan je wel de meeste situaties simuleren. Daardoor kan je al heel veel verschillende dingen testen en heel veel risicos vinden en voorkomen. Dit zorgt er voor dat je dan al een beter getest systeem kan leveren. Als je dit product dan maakt en uitvoert dan heb je in ieder geval die risicos al voorkomen. Dan kan je nog verder testen of er meer zijn die in de simulatie niet aan bod kwamen. 
+Natuurlijk kan het dan kapot gaan maar je zal verder zijn zonder enige kosten dan dat je niet zou simuleren. Daardoor bespaar je alsnog kosten. Die kosten kunnen verkend worden met de kosten voor het ontwikkelen van de simulatiesoftware. Dan heb je daartegen nog het voordeel dat je met het simuleren de risicos vermeid zoals bijvoorbeeld met een evenement dat jezonder gevaar de risicozones kan vinden.
 
-https://www.anylogic.com/use-of-simulation/
+### Conclusie
+
+Als als ik kijk naar de voordelen en de nadelen zou ik zeggen dat er meer voordelen als nadelen zijn en ook dat de voordelen sterker wegen als de nadelen. Om die reden is het in mijn ogen positief om simulatiesoftware te gebruiken. Daarmee denk ik ook dat bedrijven dit inzien en ook zeker positief denken over het gebruiken van simulatiesoftware. Deze software wordt ook verder ontwikkeld en steeds beter waardoor het nog antrekkelijker wordt. Om deze redenen denk ik dat er meer gebruik wordt gemaakt van simulatiesoftware als voorheen.
+
+[Bron 1](https://www.anylogic.com/use-of-simulation/)
+[Bron 2](https://www.bbc.co.uk/bitesize/guides/zvxp34j/revision/3)
+
 
 ## Applicaties die Json gebruiken:
 1. GitKraken
